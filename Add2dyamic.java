@@ -4,7 +4,7 @@ class Add2Dynamic
 public static void main(String args[])
 {
 int a,b,c;
-Scanner scan=new Scanner(System.in);
+Scanner scan=new Scanner(System.in);//import scanner class
 System.out.println("enter a value");
 a=scan.nextInt();
 System.out.println("enter b value");
